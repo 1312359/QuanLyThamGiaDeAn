@@ -32,4 +32,4 @@ Trong đó: 'orcl' là tên (SID) của database, sửa lại nếu khác.
 
 - Open command at root directory project (Shilf + Rightclick -> OpenCommand here)
 - bundle install
-- rails s
+- rails db:setup
