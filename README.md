@@ -10,12 +10,11 @@ Project ATBM_HTTT@HCMUS
 
 *Setting:
 
-Using SQL*Plus, create a user that you can use for this application.
-Tạo tài khoản 'ruby' để đăng nhập kết nối oracle = SQLPLUS
-SQLPLUS tìm trong thanh search/cortana của win 10/StartMenu hoặc trong thư mục cài đặt /product\11.2.0\dbhome_1\BIN
-Đăng nhập bằng tài khoản SYS:
-Username: SYS as SYSDBA
-Password: Khi cài oracle có nhập
+-Tạo tài khoản 'ruby' để đăng nhập kết nối oracle = SQLPLUS
+-SQLPLUS tìm trong thanh search/cortana của win 10/StartMenu hoặc trong thư mục cài đặt /product\11.2.0\dbhome_1\BIN
+-Đăng nhập bằng tài khoản SYS:
+*Username: SYS as SYSDBA
+*Password: Khi cài oracle có nhập
 
 SQL> GRANT CONNECT, RESOURCE TO ruby IDENTIFIED BY ruby;
 SQL> ALTER USER ruby DEFAULT TABLESPACE users TEMPORARY TABLESPACE temp;
