@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mapb: MyString
+  tenpb: MyString
+  trphg: MyString
+  ngaybd: MyString
+
+two:
+  mapb: MyString
+  tenpb: MyString
+  trphg: MyString
+  ngaybd: MyString

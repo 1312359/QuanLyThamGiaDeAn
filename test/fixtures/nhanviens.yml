@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manv: MyString
+  honv: MyString
+  tennv: MyString
+  phai: MyString
+  luong: MyString
+  diachi: MyString
+  ngaysinh: MyString
+
+two:
+  manv: MyString
+  honv: MyString
+  tennv: MyString
+  phai: MyString
+  luong: MyString
+  diachi: MyString
+  ngaysinh: MyString

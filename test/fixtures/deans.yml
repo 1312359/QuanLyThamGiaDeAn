@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mada: MyString
+  tenda: MyString
+  ngaybd: MyString
+  phong: MyString
+  diadiem_da: MyString
+
+two:
+  mada: MyString
+  tenda: MyString
+  ngaybd: MyString
+  phong: MyString
+  diadiem_da: MyString
