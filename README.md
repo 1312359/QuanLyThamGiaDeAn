@@ -1,5 +1,7 @@
 Project ATBM_HTTT@HCMUS
 
+*Script Database: Create_Schema.sql
+
 *Using:
 
 - Ruby-2.3.3
