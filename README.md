@@ -22,7 +22,6 @@ SQL> ALTER USER ruby DEFAULT TABLESPACE users TEMPORARY TABLESPACE temp;
 SQL> EXIT
 
 Sau đó chỉnh sửa file database.yml trong /config của project như sau:
-(Mặc định đã chỉnh sẵn)
 
 development:
   adapter: oracle_enhanced
