@@ -20,7 +20,7 @@ SQL> GRANT CONNECT, RESOURCE TO ruby IDENTIFIED BY ruby;
 SQL> ALTER USER ruby DEFAULT TABLESPACE users TEMPORARY TABLESPACE temp;
 SQL> EXIT
 
-Sau đó chỉnh sửa file database.yml trong /config của project như sau:
+Sau đó chỉnh sửa file database.yml trong /config của project như sau hoặc để nguyên (nếu t online)
 
 development:
   adapter: oracle_enhanced
